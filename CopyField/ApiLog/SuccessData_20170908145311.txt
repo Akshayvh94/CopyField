@@ -1,0 +1,138 @@
+Vsts call has been made at:9/8/2017 2:53:34 PM
+
+Host: localhost:12384
+
+Time Taken: 210.7802938
+{
+  "subscriptionId": "da33e1cd-1bf9-484a-9126-c37656e0887d",
+  "notificationId": 37,
+  "id": "41d0bd4e-8251-46cb-adf4-4a8b4a9826be",
+  "eventType": "workitem.updated",
+  "publisherId": "tfs",
+  "message": {
+    "text": "Use Case #3517 (test4) updated by Srivatsa\r\n(https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3517)",
+    "html": "<a href=\"https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&amp;id=3517\">Use Case #3517</a> (test4) updated by Srivatsa",
+    "markdown": "[Use Case #3517](https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3517) (test4) updated by Srivatsa"
+  },
+  "detailedMessage": {
+    "text": "Use Case #3517 (test4) updated by Srivatsa\r\n(https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3517)\r\n\r\n",
+    "html": "<a href=\"https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&amp;id=3517\">Use Case #3517</a> (test4) updated by Srivatsa<ul></ul>",
+    "markdown": "[Use Case #3517](https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3517) (test4) updated by Srivatsa\r\n\r\n"
+  },
+  "resource": {
+    "id": 6,
+    "workItemId": 3517,
+    "rev": 6,
+    "revisedBy": {
+      "id": "358de3ef-67c1-600e-98ac-2d9d6036ca12",
+      "name": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+      "displayName": "Srivatsa",
+      "uniqueName": "globaladmin@sanjeevkumarishotmail.onmicrosoft.com",
+      "url": "https://app.vssps.visualstudio.com/A63e4a51b-8762-4b97-b12b-d5be82a78ad0/_apis/Identities/358de3ef-67c1-600e-98ac-2d9d6036ca12",
+      "imageUrl": "https://canmig.visualstudio.com/_api/_common/identityImage?id=358de3ef-67c1-600e-98ac-2d9d6036ca12"
+    },
+    "revisedDate": "9999-01-01T00:00:00Z",
+    "fields": {
+      "System.Rev": {
+        "oldValue": 5,
+        "newValue": 6
+      },
+      "System.AuthorizedDate": {
+        "oldValue": "2017-09-08T06:27:00.393Z",
+        "newValue": "2017-09-08T06:27:05.597Z"
+      },
+      "System.RevisedDate": {
+        "oldValue": "2017-09-08T06:27:05.597Z",
+        "newValue": "9999-01-01T00:00:00Z"
+      },
+      "System.ChangedDate": {
+        "oldValue": "2017-09-08T06:27:00.393Z",
+        "newValue": "2017-09-08T06:27:05.597Z"
+      },
+      "System.Watermark": {
+        "oldValue": 8689,
+        "newValue": 8690
+      },
+      "Aspentech.Usecases.TargetTurnoverDate": {
+        "newValue": "2017-09-08T00:00:00Z"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3517/updates/6"
+      },
+      "workItemUpdates": {
+        "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3517/updates"
+      },
+      "parent": {
+        "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3517"
+      },
+      "html": {
+        "href": "https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3517"
+      }
+    },
+    "url": "https://canmig.visualstudio.com/_apis/wit/workItems/3517/updates/6",
+    "revision": {
+      "id": 3517,
+      "rev": 6,
+      "fields": {
+        "System.AreaPath": "TestRollUp",
+        "System.TeamProject": "TestRollUp",
+        "System.IterationPath": "TestRollUp",
+        "System.WorkItemType": "Use Case",
+        "System.State": "Committed",
+        "System.Reason": "Ready to be Turned Over",
+        "System.CreatedDate": "2017-09-08T06:25:05.143Z",
+        "System.CreatedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "System.ChangedDate": "2017-09-08T06:27:05.597Z",
+        "System.ChangedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "System.Title": "test4",
+        "Microsoft.VSTS.CMMI.Blocked": "No",
+        "Microsoft.VSTS.Common.ClosedDate": "2017-09-08T06:25:05.143Z",
+        "Microsoft.VSTS.Common.ClosedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "Microsoft.VSTS.Common.StateChangeDate": "2017-09-08T06:27:00.393Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2017-09-08T06:26:28.99Z",
+        "Microsoft.VSTS.Common.ActivatedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "Microsoft.VSTS.Common.Priority": 5,
+        "Microsoft.VSTS.Common.ResolvedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "Microsoft.VSTS.Common.ResolvedReason": "Use Case in review",
+        "Microsoft.VSTS.Common.StackRank": 999841894.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Microsoft.VSTS.Common.Triage": "Pending",
+        "Microsoft.VSTS.CMMI.RequirementType": "Functional",
+        "Microsoft.VSTS.CMMI.UserAcceptanceTest": "Not Ready",
+        "Microsoft.VSTS.CMMI.Committed": "No",
+        "Aspentech.Usecases.TargetTurnoverDate": "2017-09-08T00:00:00Z",
+        "Aspentech.Common.TraceabilityRequired": true
+      },
+      "_links": {
+        "self": {
+          "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3517/revisions/6"
+        },
+        "workItemRevisions": {
+          "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3517/revisions"
+        },
+        "parent": {
+          "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3517"
+        }
+      },
+      "url": "https://canmig.visualstudio.com/_apis/wit/workItems/3517/revisions/6"
+    }
+  },
+  "resourceVersion": "1.0",
+  "resourceContainers": {
+    "collection": {
+      "id": "b6d41a39-16ef-4e9b-920a-00ba3072c17b",
+      "baseUrl": "https://canmig.visualstudio.com/"
+    },
+    "account": {
+      "id": "63e4a51b-8762-4b97-b12b-d5be82a78ad0",
+      "baseUrl": "https://canmig.visualstudio.com/"
+    },
+    "project": {
+      "id": "5db7da21-4a89-491b-8a0a-39ef91332e6e",
+      "baseUrl": "https://canmig.visualstudio.com/"
+    }
+  },
+  "createdDate": "2017-09-08T06:27:05.8361599Z"
+}

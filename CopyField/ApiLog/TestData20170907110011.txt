@@ -1,0 +1,150 @@
+Vsts call has been made at:9/7/2017 11:00:11 AM
+
+Host: localhost:12384
+
+{
+  "subscriptionId": "ce9bd2a0-a877-4616-a766-9b1561b045d2",
+  "notificationId": 3,
+  "id": "9acb9298-70a7-4942-a34a-b0a0da4e54de",
+  "eventType": "workitem.updated",
+  "publisherId": "tfs",
+  "message": {
+    "text": "Use Case #3503 (TestRoll) transitioned to Committed by Srivatsa\r\n(https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3503)",
+    "html": "<a href=\"https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&amp;id=3503\">Use Case #3503</a> (TestRoll) transitioned to Committed by Srivatsa",
+    "markdown": "[Use Case #3503](https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3503) (TestRoll) transitioned to Committed by Srivatsa"
+  },
+  "detailedMessage": {
+    "text": "Use Case #3503 (TestRoll) transitioned to Committed by Srivatsa\r\n(https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3503)\r\n\r\n- New State: Committed\r\n",
+    "html": "<a href=\"https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&amp;id=3503\">Use Case #3503</a> (TestRoll) transitioned to Committed by Srivatsa<ul>\r\n<li>New State: Committed</li></ul>",
+    "markdown": "[Use Case #3503](https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3503) (TestRoll) transitioned to Committed by Srivatsa\r\n\r\n* New State: Committed\r\n"
+  },
+  "resource": {
+    "id": 5,
+    "workItemId": 3503,
+    "rev": 5,
+    "revisedBy": {
+      "id": "358de3ef-67c1-600e-98ac-2d9d6036ca12",
+      "name": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+      "displayName": "Srivatsa",
+      "uniqueName": "globaladmin@sanjeevkumarishotmail.onmicrosoft.com",
+      "url": "https://app.vssps.visualstudio.com/A63e4a51b-8762-4b97-b12b-d5be82a78ad0/_apis/Identities/358de3ef-67c1-600e-98ac-2d9d6036ca12",
+      "imageUrl": "https://canmig.visualstudio.com/_api/_common/identityImage?id=358de3ef-67c1-600e-98ac-2d9d6036ca12"
+    },
+    "revisedDate": "9999-01-01T00:00:00Z",
+    "fields": {
+      "System.Rev": {
+        "oldValue": 4,
+        "newValue": 5
+      },
+      "System.AuthorizedDate": {
+        "oldValue": "2017-09-06T13:03:22.82Z",
+        "newValue": "2017-09-06T13:03:43.477Z"
+      },
+      "System.RevisedDate": {
+        "oldValue": "2017-09-06T13:03:43.477Z",
+        "newValue": "9999-01-01T00:00:00Z"
+      },
+      "System.State": {
+        "oldValue": "Approved",
+        "newValue": "Committed"
+      },
+      "System.Reason": {
+        "oldValue": "Review completed and agreed",
+        "newValue": "Ready to be Turned Over"
+      },
+      "System.ChangedDate": {
+        "oldValue": "2017-09-06T13:03:22.82Z",
+        "newValue": "2017-09-06T13:03:43.477Z"
+      },
+      "System.Watermark": {
+        "oldValue": 8576,
+        "newValue": 8577
+      },
+      "Microsoft.VSTS.Common.StateChangeDate": {
+        "oldValue": "2017-09-06T13:03:22.82Z",
+        "newValue": "2017-09-06T13:03:43.477Z"
+      },
+      "Aspentech.Usecases.TargetTurnoverDate": {
+        "newValue": "2017-09-07T00:00:00Z"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3503/updates/5"
+      },
+      "workItemUpdates": {
+        "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3503/updates"
+      },
+      "parent": {
+        "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3503"
+      },
+      "html": {
+        "href": "https://canmig.visualstudio.com/web/wi.aspx?pcguid=b6d41a39-16ef-4e9b-920a-00ba3072c17b&id=3503"
+      }
+    },
+    "url": "https://canmig.visualstudio.com/_apis/wit/workItems/3503/updates/5",
+    "revision": {
+      "id": 3503,
+      "rev": 5,
+      "fields": {
+        "System.AreaPath": "TestRollUp",
+        "System.TeamProject": "TestRollUp",
+        "System.IterationPath": "TestRollUp",
+        "System.WorkItemType": "Use Case",
+        "System.State": "Committed",
+        "System.Reason": "Ready to be Turned Over",
+        "System.CreatedDate": "2017-09-06T13:02:56.447Z",
+        "System.CreatedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "System.ChangedDate": "2017-09-06T13:03:43.477Z",
+        "System.ChangedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "System.Title": "TestRoll",
+        "Microsoft.VSTS.CMMI.Blocked": "No",
+        "Microsoft.VSTS.Common.ClosedDate": "2017-09-06T13:02:56.447Z",
+        "Microsoft.VSTS.Common.ClosedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "Microsoft.VSTS.Common.StateChangeDate": "2017-09-06T13:03:43.477Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2017-09-06T13:03:22.82Z",
+        "Microsoft.VSTS.Common.ActivatedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "Microsoft.VSTS.Common.Priority": 5,
+        "Microsoft.VSTS.Common.ResolvedBy": "Srivatsa <globaladmin@sanjeevkumarishotmail.onmicrosoft.com>",
+        "Microsoft.VSTS.Common.ResolvedReason": "Use Case in review",
+        "Microsoft.VSTS.Common.StackRank": 1000000000.0,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Microsoft.VSTS.Common.Triage": "Pending",
+        "Microsoft.VSTS.CMMI.RequirementType": "Functional",
+        "Microsoft.VSTS.CMMI.UserAcceptanceTest": "Not Ready",
+        "Microsoft.VSTS.CMMI.Committed": "No",
+        "Aspentech.Usecases.TargetTurnoverDate": "2017-09-07T00:00:00Z",
+        "Aspentech.Common.TraceabilityRequired": true,
+        "Aspentech.Common.IsBaselineTurnoverDateUpdated": false
+      },
+      "_links": {
+        "self": {
+          "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3503/revisions/5"
+        },
+        "workItemRevisions": {
+          "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3503/revisions"
+        },
+        "parent": {
+          "href": "https://canmig.visualstudio.com/_apis/wit/workItems/3503"
+        }
+      },
+      "url": "https://canmig.visualstudio.com/_apis/wit/workItems/3503/revisions/5"
+    }
+  },
+  "resourceVersion": "1.0",
+  "resourceContainers": {
+    "collection": {
+      "id": "b6d41a39-16ef-4e9b-920a-00ba3072c17b",
+      "baseUrl": "https://canmig.visualstudio.com/"
+    },
+    "account": {
+      "id": "63e4a51b-8762-4b97-b12b-d5be82a78ad0",
+      "baseUrl": "https://canmig.visualstudio.com/"
+    },
+    "project": {
+      "id": "5db7da21-4a89-491b-8a0a-39ef91332e6e",
+      "baseUrl": "https://canmig.visualstudio.com/"
+    }
+  },
+  "createdDate": "2017-09-06T13:03:43.2441103Z"
+}
